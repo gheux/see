@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # General exist free easy.
 puts "Hello, World!"
+
+# For recently at without seek deal join.
+puts "Hello, World!"
