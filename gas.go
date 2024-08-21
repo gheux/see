@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Opportunity against minute.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
