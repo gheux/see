@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Teach region year interest they.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
