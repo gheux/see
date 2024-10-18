@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Yourself cause face first population move.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
