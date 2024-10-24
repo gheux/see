@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Pattern husband outside event.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
