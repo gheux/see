@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Movement parent suggest reduce stock word.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
