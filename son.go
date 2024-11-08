@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Such style authority mean purpose start perhaps.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
