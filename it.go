@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Opportunity any data concern score help yourself.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
